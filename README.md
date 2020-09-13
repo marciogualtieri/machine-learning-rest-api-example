@@ -8,4 +8,4 @@ Everything is self-contained in a single Jupyter notebook.
 
 You will find the original notebook [here](./jupyter/Model.ipynb).
 
-You can also find the rendered notebook [here](https://marciogualtieri.github.io/machine-learning-rest-api/jupyter/Model.html).
+You can also find the rendered notebook [here](https://marciogualtieri.github.io/machine-learning-rest-api-example/jupyter/Model.html).
