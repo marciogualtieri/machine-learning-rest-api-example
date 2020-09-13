@@ -1,4 +1,4 @@
-# Example REST API with Machine Using Flask and Scikit-learn
+# Example REST API + Machine Learning Using Flask and Scikit-learn
 
 The purpose of this notebook is to serve as an example of creating a machine learning model (regression with random forest built with [`sklearn`](https://scikit-learn.org/)) and using it in a REST API.
 
