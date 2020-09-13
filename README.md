@@ -6,6 +6,4 @@ We are using [`Flask`](https://flask.palletsprojects.com/en/1.1.x/) to create th
 
 Everything is self-contained inside a single Jupyter notebook.
 
-You will find the original notebook [here](./jupyter/Model.ipynb).
-
-You will also find the rendered notebook [here](https://marciogualtieri.github.io/machine-learning-rest-api-example/jupyter/Model.html).
+You will find the original notebook [here](./jupyter/Model.ipynb). You will also find the rendered notebook [here](https://marciogualtieri.github.io/machine-learning-rest-api-example/jupyter/Model.html).
